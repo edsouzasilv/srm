@@ -1,0 +1,22 @@
+.estrutura{
+    width:100%;
+    max-width:1100px;
+    height:500px;
+    background-color:#DCDCDC; 
+    margin:auto;
+    border:6px solid #C0C0C0;
+}
+header{
+    width:100%;
+    max-width:850px;
+    height:80px;
+    margin-left:auto;
+    background-color:red;
+}
+#corpo{
+    width:100%;
+    max-width:850px;
+    height:420px;
+    margin-left:auto;
+    background-color:blue;
+}
