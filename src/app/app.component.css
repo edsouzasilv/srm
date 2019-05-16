@@ -6,17 +6,118 @@
     margin:auto;
     border:6px solid #C0C0C0;
 }
+
 header{
     width:100%;
     max-width:850px;
-    height:80px;
+    height:70px;
     margin-left:auto;
-    background-color:red;
+    background-color:#ffffff;
 }
+
+#logo{
+    width:100%;
+    max-width:260px;
+    height:60px;
+    position: fixed;
+    top:25px;
+    left:415px;
+    background-image:image('img/logo-srm.png')
+}
+
+#texto{
+    width:150px;
+    height:40px;
+    background-color:#ffffff;
+    line-height:40px;
+    text-align:center;
+    font-size:14px;
+    color:#A9A9A9;
+    position:fixed;
+    top:30px;
+    left:650px;
+}
+
+#visao{
+    width:150px;
+    height:40px;
+    background-color:#ffffff;
+    border:1px solid #87CEFA; 
+    text-align:center;
+    font-size:14px;
+    position:fixed;
+    top:25px;
+    left:790px;
+    text-align:center;
+    color:#A9A9A9;
+    line-height:40px;
+}
+
+#user{
+    width:240px;
+    height:40px;
+    background-color:#191970;
+    text-align:center;
+    font-size:14px;
+    line-height:40px;
+    color: #ffffff;
+    position:fixed;
+    top:25px;
+    right:160px;
+}
+
+#sino{
+    width:50px;
+    height:40px;
+    background-color:#6495ED;
+    float:right; 
+}
+
 #corpo{
     width:100%;
     max-width:850px;
     height:420px;
     margin-left:auto;
-    background-color:blue;
+    background-color:#ffffff;
+}
+
+#painelhorizontal{
+    width:100%;
+    max-width:850px;
+    height:130px;
+    background-color:#DCDCDC;
+}
+#menuhoriz{
+    color:#A9A9A9;
+    font-size:14px;
+    padding-top:20px;
+    padding-left:40px;
+}
+#pg{
+    color:#191970;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:80px;
+}
+#prd{
+    font-size:16px;
+    position:fixed;
+    top:145px;
+    right:330px;
+    float:right;
+    color:#A9A9A9;
+}
+#tds{
+    width:150px;
+    height:40px;
+    background-color:#DCDCDC;
+    border:1px solid #87CEFA; 
+    text-align:center;
+    font-size:14px;
+    position:fixed;
+    top:130px;
+    right:160px;
+    text-align:center;
+    color:#A9A9A9;
+    line-height:40px;
 }
