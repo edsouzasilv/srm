@@ -1,10 +1,68 @@
-header{
+header{ 
     width:100%;
-    max-width:250px;
+    max-width:246px;
     height:500px;
     background-color:#191970;
     position:fixed;
     top:14px;
     left:133px;
+}
+#pesquisa{
+    width:100%;
+    max-width:246px;
+    height:70px;
+    background-color:#ffffff;
+}
 
+.pesquisa{                
+    padding-top:25px;
+    padding-left:25px;
+    color:#DCDCDC;
+}
+
+input{
+    width:120px;
+    height:25px;
+    border:none;
+}
+
+::placeholder{
+    text-align:center;
+    font-size:15px;
+    padding-right:30px;
+}
+
+#pg2{
+    width:246px;
+    height:50px;
+    background-color:#191970;
+    color:#ffffff;
+    line-height:50px;
+    text-align: center;
+    position:fixed;
+    top:83px;
+    border-bottom:3px solid #4682B4;
+}
+#contadigital{
+    width:246px;
+    height:50px;
+    background-color:#191970;
+    color:#ffffff;
+    line-height:50px;
+    text-align: center;
+    position:fixed;
+    top:136px;
+    border-bottom:3px solid #4682B4;
+}
+
+#recebiveis{
+    width:246px;
+    height:50px;
+    background-color:#191970;
+    color:#ffffff;
+    line-height:50px;
+    text-align: center;
+    position:fixed;
+    top:189px;
+    border-bottom:3px solid #4682B4;
 }

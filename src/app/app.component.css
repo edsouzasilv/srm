@@ -16,13 +16,10 @@ header{
 }
 
 #logo{
-    width:100%;
-    max-width:260px;
+    width:252px;
     height:60px;
     position: fixed;
-    top:25px;
-    left:415px;
-    background-image:image('img/logo-srm.png')
+    top:20px;
 }
 
 #texto{
@@ -78,31 +75,31 @@ header{
     max-width:850px;
     height:420px;
     margin-left:auto;
-    background-color:#ffffff;
+    background-color:#DCDCDC;
 }
 
 #painelhorizontal{
     width:100%;
     max-width:850px;
-    height:130px;
+    height:100px;
     background-color:#DCDCDC;
 }
 #menuhoriz{
     color:#A9A9A9;
     font-size:14px;
-    padding-top:20px;
+    padding-top:10px;
     padding-left:40px;
 }
 #pg{
     color:#191970;
     font-size:20px;
-    padding-top:20px;
+    padding-top:10px;
     padding-left:80px;
 }
 #prd{
-    font-size:16px;
+    font-size:14px;
     position:fixed;
-    top:145px;
+    top:125px;
     right:330px;
     float:right;
     color:#A9A9A9;
@@ -115,7 +112,7 @@ header{
     text-align:center;
     font-size:14px;
     position:fixed;
-    top:130px;
+    top:115px;
     right:160px;
     text-align:center;
     color:#A9A9A9;
