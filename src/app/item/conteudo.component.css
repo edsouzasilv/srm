@@ -25,7 +25,7 @@
     top:184px;
     padding-top:20px;
     padding-left:20px;
-    color:#A9A9A9;
+    color:#808080;
     font-size:14px;
     border-bottom:1px solid #DCDCDC;
 }
@@ -39,7 +39,7 @@
     left:402px;
     padding-top:5px;
     padding-left:10px;
-    color:#A9A9A9;
+    color:#808080;
     font-size:14px;
     border-right:1px solid #DCDCDC;
 }
@@ -51,7 +51,7 @@
     position:fixed;
     top:266px;
     left:674px;
-    color:#A9A9A9;
+    color:#808080;
     padding-top:5px;
     padding-left:10px;
     font-size:14px;
@@ -67,7 +67,7 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA; 
 }
 
@@ -81,7 +81,7 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA; 
 }
 
@@ -95,7 +95,7 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA; 
 }
 
@@ -109,7 +109,7 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA; 
 }
 
@@ -123,13 +123,13 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA; 
 }
 
 #parte2{
     width:100%;
-    max-width:363px;
+    max-width:365px;
     height:310px;
     position: fixed;
     left:853px;
@@ -148,7 +148,7 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA;
 }
 
@@ -162,20 +162,20 @@
     font-size:12px;
     text-align:center;
     line-height:30px;
-    color:#A9A9A9;
+    color:#808080;
     border:1px solid #87CEFA;
 }
 
 #alertas{
-    width:345px;
+    width:339px;
     height:60px;
     background-color:#ffffff;
     position:fixed;
     right:149px;
     top:184px;
     padding-top:20px;
-    padding-left:20px;
-    color:#A9A9A9;
+    padding-left:25px;
+    color:#4169E1;
     border-bottom:1px solid #DCDCDC;
     font-size:14px;
 }
@@ -189,9 +189,9 @@
     top:266px;
     padding-top:20px;
     padding-left:20px;
-    color:#A9A9A9;
+    color:#808080;
     border-bottom:1px solid #DCDCDC;
-    font-size:14px;
+    font-size:12px;
 }
 
 #part2{
@@ -203,9 +203,9 @@
     top:338px;
     padding-top:20px;
     padding-left:20px;
-    color:#A9A9A9;
+    color:#808080;
     border-bottom:1px solid #DCDCDC;
-    font-size:14px;
+    font-size:12px;
 }
 
 #part3{
@@ -217,8 +217,8 @@
     top:415px;
     padding-top:20px;
     padding-left:20px;
-    color:#A9A9A9;
-    font-size:14px;
+    color:#808080;
+    font-size:12px;
 }
 
 input{
@@ -227,4 +227,14 @@ input{
     height:20px;
     text-align:center;
     border:1px solid #87CEFA;
+}
+
+#dias{
+    padding-left:180px;
+    color:#808080;
+}
+
+#acao{
+    width:40px;
+    height:25px;
 }

@@ -2,7 +2,7 @@ header{
     width:100%;
     max-width:246px;
     height:500px;
-    background-color:#191970;
+    background-color:#00233d;
     position:fixed;
     top:14px;
     left:133px;
@@ -15,54 +15,121 @@ header{
 }
 
 .pesquisa{                
-    padding-top:25px;
-    padding-left:25px;
-    color:#DCDCDC;
+    padding-top:20px;
+    padding-left:60px;
+}
+
+button{
+    background-color:#ffffff;
+    border:none;
+    position: fixed;
+    left:320px;
+    top:32px;
 }
 
 input{
     width:120px;
-    height:25px;
+    height:30px;
     border:none;
+    position:fixed;
+    font-size:16px;
+    top:30px;
 }
 
 ::placeholder{
     text-align:center;
-    font-size:15px;
-    padding-right:30px;
+    padding-right:30px;   
 }
 
 #pg2{
     width:246px;
     height:50px;
-    background-color:#191970;
+    background-color:#00233d;
     color:#ffffff;
+    font-size:14px;
     line-height:50px;
     text-align: center;
     position:fixed;
-    top:83px;
-    border-bottom:3px solid #4682B4;
+    top:73px;
+    border-bottom:2px solid #4682B4;
 }
 #contadigital{
-    width:246px;
+    width:186px;
     height:50px;
-    background-color:#191970;
+    background-color:#00233d;
     color:#ffffff;
     line-height:50px;
-    text-align: center;
+    font-size:14px;
     position:fixed;
-    top:136px;
-    border-bottom:3px solid #4682B4;
+    left:133px;
+    top:126px;
+    text-align:left;
+    padding-left:60px;
+    border-bottom:2px solid #4682B4;
 }
 
 #recebiveis{
-    width:246px;
-    height:50px;
-    background-color:#191970;
+    width:186px;
+    height:30px;
+    background-color:#00233d;
     color:#ffffff;
-    line-height:50px;
     text-align: center;
+    font-size:14px;
     position:fixed;
-    top:189px;
-    border-bottom:3px solid #4682B4;
+    top:179px;
+    line-height:50px;
+    text-align:left;
+    padding-bottom:20px;
+    padding-left:60px;
+    border-bottom:2px solid #4682B4;
+}
+
+#globo{
+    position:fixed;
+    top:77px;
+    left:145px;
+}
+
+#arroba{
+    position:fixed;
+    top:133px;
+    left:145px;
+}
+
+#estat{
+    position:fixed;
+    top:182px;
+    left:145px;
+}
+
+#seta{
+    position: fixed;
+    top:187px;
+    left:320px;
+}
+
+#chanfro1{
+    height:50px;
+    position: fixed;
+    top:73px;
+    left:356px;    
+}
+
+#chanfro2{
+    height:50px;
+    position:fixed;
+    top:126px;
+    left:356px;
+}
+
+#chanfro3{
+    height:50px;
+    position:fixed;
+    top:179px;
+    left:356px;
+}
+
+.texto2{
+    text-decoration:none;
+    color:#ffffff;
 }
